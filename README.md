@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 
 I’m a creative technologist exploring how we can build more intentional, expressive, and human-centered tools.
 
-I work mostly in Figma Make, Spline, and visual development environments — prototyping interfaces that help people think, feel, and make better decisions.
+I work mostly in Figma, Spline, and visual development environments — prototyping interfaces that help people think, feel, and make better decisions.
 
 **Current Projects 🛠**
-- A social journaling app to connect scattered thoughts and reflect with clarity  
+- A social journaling app
+- A multi-tool subscription platform
 - Real-time visual experiments using p5.js, motion sensors, and live data  
-- Tools for note-taking, meaning-making, and personal systems thinking
+- Tools for note-taking,meaning-making, and personal systems thinking
 
 Most of my work isn't hosted on GitHub — you can find it all on [my website](https://qrenaud.com).
 
