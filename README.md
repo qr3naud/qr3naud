@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I’m Quentin 👋
+**Hi, I’m Quentin 👋**
 
 I’m a creative technologist exploring how we can build more intentional, expressive, and human-centered tools.
 
 I work mostly in Figma Make, Spline, and visual development environments — prototyping interfaces that help people think, feel, and make better decisions.
 
-**🛠 Current Projects 🛠**
+**Current Projects 🛠**
 - A social journaling app to connect scattered thoughts and reflect with clarity  
 - Real-time visual experiments using p5.js, motion sensors, and live data  
 - Tools for note-taking, meaning-making, and personal systems thinking
