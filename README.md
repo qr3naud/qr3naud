@@ -4,53 +4,24 @@ I’m a **human-centered data strategist** working at the intersection of **AI, 
 
 My focus: **large language model (LLM) development** and **tangible, operational applications** that help organizations make better decisions.
 
-## 🛠 Current Projects
-- **Fraud Detection in Palantir Foundry** — Leveraging Benford’s Law to detect anomalies in financial statements, predicting accounting irregularities before they escalate.
-- **Portfolio Risk Modeling** — Assessing fraud likelihood based on repeated deviations from expected probability distributions.
-- **LLM-Powered Decision Support** — Building interfaces that bridge human insight with machine intelligence.
+	Needs polishing...
 
-## 🎨 Experimental & Creative Work
-Alongside my AI work, I explore projects that expand the way we think and create:
-- **Sensemaking App** — Tools for knowledge organization and insight discovery.
-- **Social Journaling Platform** — Designing interfaces for shared reflection and community storytelling.
-- **Mathematical Digital Art** — Generating visuals in TouchDesigner using mathematical functions.
+## Projects 👨🏻‍🍳🍳
 
----
+**Benford's Law ▓▒▒▒**
 
-Most of my work lives beyond GitHub — [**find it on my website**](https://www.qrenaud.com).
+A stock portfolio based on companies who are likely to commit accounting fraud. Benford's Law says that all naturally occuring event follow a similar distribution curve. Financial statements are no exceptions. If FS deviate from this distribution, we can assume on p level of confidence, that human intervention happeneded.
+  
+**Intent ▰▰▰▰▱**
 
+How to make Apple Notes 10x better. During user research, I discovered that people are not trying to take better notes, but make more sense, of themselves and of their world they live in. Intent is an attempt at designing a notetaking app to meet these needs by designing never-seen-before features: pyramid of sense, conflict detection, on top of a range of auto-organisation to make your notes easy to find. 
+  
+**Reflect ❱❱❱**
 
+Building a journaling practice is hard yet so rewarding. And when we could spend some quality time journaling, we choose instead to play wordle, or scroll on socials. Reflect stems from the idea that journaling could be fun if it was a shared practice with a trusted circle. I started simple. Everyday, all users answer the same new question like "What's one thing you like about yourself that rarely gets noticed", you can follow your friends or family and see how they answered, or post anonymously and explored other people's answer. It can be a meaningful way to keep nurturing deep relationships with your loved ones, or feel less alone as you explore other people's answer.
+  
+**Luma Scraper【〗**
 
-<!--
-**qr3naud/qr3naud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Going to events always feel like a gamble. You can meet a person who will change your life (and that's why it's so worth it) or it can be a complete waste of time. I felt that deeply as a VC, and honestly it was 50/50. What if we could skew the odds? I built an app where you can paste the URL of the event you're going to, write a description of the type of folks you'd like to meet, that returns folks who match your description and why, as well as their social links, to make sure you can actually meet at the event. 
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-Here are some ideas to get you started:
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-**Hi, I’m Quentin 👋**
-
-I’m a creative technologist exploring how we can build more intentional, expressive, and human-centered tools.
-
-I work mostly in Figma, Spline, and visual development environments — prototyping interfaces that help people think, feel, and make better decisions.
-
-**Current Projects 🛠**
-- A social journaling app
-- A multi-tool subscription platform
-- Real-time visual experiments using p5.js, motion sensors, and live data  
-- Tools for note-taking,meaning-making, and personal systems thinking
-
-Most of my work isn't hosted on GitHub — you can find it all on [my website](https://www.qrenaud.com).
-
----
-
-📬 Reach out: [Email](mailto:reno.quentin@gmail.com)
-
--->
+... 
